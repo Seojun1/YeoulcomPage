@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+.mainimg {
+  width: 56px;
+  height: 56px;
+  padding: 8px 4px 8px 12px;
+}
+
+.nav__top {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  display: flex;
+}
+
+.yeoulcom {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+ul {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.list {
+  padding: 10px 12px;
+  list-style: none;
+  padding: 8px 12px;
+}
+
+.arrow {
+  display: flex;
+}
+
+.fas fa-chevron-down {
+  padding-top: 20px;
+}
+
+.img {
+  width: 2560px;
+  height: 1500px;
+}
