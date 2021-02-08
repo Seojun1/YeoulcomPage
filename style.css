@@ -9,7 +9,7 @@ body {
 }
 
 .nav__top {
-  border: 1px solid red;
+  border: 1px solid white;
   display: flex;
   justify-content: space-between;
 }
@@ -42,11 +42,16 @@ a {
   display: flex;
 }
 
-.fas fa-chevron-down {
-  padding-top: 20px;
-}
-
 .img {
   width: 2560px;
   height: 1500px;
+}
+
+i {
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
+.fa fa-search {
+  margin-left: 20px;
 }
